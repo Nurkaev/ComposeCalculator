@@ -23,6 +23,8 @@
   <li>MVVM</li>
   <li>Dagger Hilt</li>
   <li>Data Store</li>
+  <li>Kotlin Coroutines</li>
+  <li>Flow</li>
   <li>Accompanist</li>
 </ul>
 </p>
