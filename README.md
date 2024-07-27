@@ -1,8 +1,21 @@
-<h1>Калькулятор на Android</h1>
-<h3><b>Стек проекта:</b></h3>
-<p>Compose</p>
-<p>Clean Architecture</p>
-<p>MVVVM</p>
-<p>Dependency Injection (Dagger Hilt)</p>
-<p>Data Store</p>
-<p>Accompanist</p>
+<h1>Калькулятор на Compose</h1>
+
+<h3>Описание</h3>
+<p>Это простое, но функциональное Android приложение калькулятора, созданное с использованием Jetpack Compose. Приложение обладает интуитивно понятным интерфейсом, поддерживает базовые математические операции и предоставляет пользователю простой и эффективный способ выполнения вычислений.</p>
+
+<h3>Функционал</h3>
+<p>Сложение, вычитание, умножение и деление</br>Поддержка десятичных чисел</p>
+
+<h3>Стек технологий</h3>
+<p>Язык программирования: <b>Kotlin</b></p>
+<p>UI: <b>Jetpack Compose</b></p>
+<p>IDE: <b>Android Studio</b></p>
+<p>Остальное: 
+</br><ul>
+  <li>Clean Architecture</li>
+  <li>MVVM</li>
+  <li>Dagger Hilt</li>
+  <li>Data Store</li>
+  <li>Accompanist</li>
+</ul>
+</p>
