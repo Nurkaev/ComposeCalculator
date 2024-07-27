@@ -1,5 +1,12 @@
 <h1>Калькулятор на Compose</h1>
 
+<p>
+  <img src="/../screens/Screenshot_2024-07-27-12-25-27-296_yunuiy_hacker.ryzhaya_tetenka.composecalculator.jpg" width="200" alt="Картинка 1"/>
+  <img src="/../screens/Screenshot_2024-07-27-12-26-01-366_yunuiy_hacker.ryzhaya_tetenka.composecalculator.jpg" width="200" alt="Картинка 2"/>
+  <img src="/../screens/Screenshot_2024-07-27-12-25-23-987_yunuiy_hacker.ryzhaya_tetenka.composecalculator.jpg" width="200" alt="Картинка 3"/>
+  <img src="/../screens/Screenshot_2024-07-27-12-28-25-879_yunuiy_hacker.ryzhaya_tetenka.composecalculator.jpg" width="200" alt="Картинка 4"/>
+</p>
+
 <h3>Описание</h3>
 <p>Это простое, но функциональное Android приложение калькулятора, созданное с использованием Jetpack Compose. Приложение обладает интуитивно понятным интерфейсом, поддерживает базовые математические операции и предоставляет пользователю простой и эффективный способ выполнения вычислений.</p>
 
