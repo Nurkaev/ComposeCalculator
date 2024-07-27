@@ -19,12 +19,12 @@
 <p>IDE: <b>Android Studio</b></p>
 <p>Остальное: 
 </br><ul>
-  <li>Clean Architecture</li>
-  <li>MVVM</li>
-  <li>Dagger Hilt</li>
-  <li>Data Store</li>
-  <li>Kotlin Coroutines</li>
-  <li>Flow</li>
-  <li>Accompanist</li>
+  <li><b>Clean Architecture</b></li>
+  <li><b>MVVM</b></li>
+  <li><b>Dagger Hilt</b></li>
+  <li><b>Data Store</b></li>
+  <li><b>Kotlin Coroutines</b></li>
+  <li><b>Flow</b></li>
+  <li><b>Accompanist</b></li>
 </ul>
 </p>
